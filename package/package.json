@@ -1,0 +1,22 @@
+{
+  "name": "viclinic-brendbook",
+  "version": "1.0.0",
+  "description": "Css variables for ViClinic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViClinic/Brandbook.git"
+  },
+  "keywords": [
+    "viclinic"
+  ],
+  "author": "ViClinic dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViClinic/Brandbook/issues"
+  },
+  "homepage": "https://github.com/ViClinic/Brandbook#readme"
+}
