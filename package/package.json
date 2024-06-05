@@ -1,6 +1,6 @@
 {
   "name": "viclinic-brandbook",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Css variables for ViClinic",
   "main": "index.js",
   "scripts": {

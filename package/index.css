@@ -59,6 +59,22 @@
     --b850: #1953BC;
     --b900: #144BAE;
 
+      /* Blue Green */
+    --bg50: #e0f2f1;
+    --bg100: #b2dfdb;
+    --bg200: #80cbc4;
+    --bg300: #4db6ac;
+    --bg400: #26a69a;
+    --bg500: #009688;
+    --bg600: #00897b;
+    --bg700: #00796b;
+    --bg800: #00695c;
+    --bg900: #004d40;
+    --bga100: #a7ffeb;
+    --bga200: #64ffda;
+    --bga400: #1de9b6;
+    --bga700: #00bfa5;
+
     /* Light Blue */
     --lb50: #FAFDFE;
     --lb100: #F4FDFF;
